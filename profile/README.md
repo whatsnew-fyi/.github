@@ -8,7 +8,8 @@ unified, reverse-chronological feed. Over 1,000 products tracked and polled.
 
 - **Site** — [whatsnew.fyi](https://whatsnew.fyi)
 - **MCP server** — `fyi.whatsnew/changelogs` at [whatsnew.fyi/mcp](https://whatsnew.fyi/mcp)
-- **Feeds** — [RSS](https://whatsnew.fyi/rss.xml) · [llms.txt](https://whatsnew.fyi/llms.txt)
+- **Feeds** — [RSS](https://whatsnew.fyi/feed.xml) · [llms.txt](https://whatsnew.fyi/llms.txt)
 - **Bluesky** — [@whatsnew.fyi](https://bsky.app/profile/whatsnew.fyi)
+- **Missing a product?** — ask for it at [whatsnew.fyi/suggest](https://whatsnew.fyi/suggest)
 
 Not affiliated with any product listed.
