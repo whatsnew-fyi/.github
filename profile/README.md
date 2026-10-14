@@ -14,9 +14,13 @@ to the vendor's own notes.
   signals), licensed CC BY 4.0.
 - **[skills](https://github.com/whatsnew-fyi/skills)**: agent skills that read the
   release notes before you upgrade. A Claude Code plugin plus the MCP server.
+- **[upgrade-notes-action](https://github.com/whatsnew-fyi/upgrade-notes-action)**: a
+  GitHub Action that comments on Dependabot, Renovate and lockfile PRs with the
+  vendor's breaking changes, migration notes and CVE fixes for every version in between.
 - **[declarative-changelog](https://github.com/whatsnew-fyi/declarative-changelog)**:
-  validator and reference parser for [Declarative Changelogs](https://whatsnew.fyi/spec),
-  a `CHANGELOG.md` a machine can read without guessing.
+  validator, reference parser, GitHub Action and pre-commit hook for
+  [Declarative Changelogs](https://whatsnew.fyi/spec), a `CHANGELOG.md` a machine can
+  read without guessing.
 
 ## Use it
 
